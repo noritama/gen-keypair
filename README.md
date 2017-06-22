@@ -6,7 +6,7 @@ Automatically generates RSA key-pair.
 # Download
 
 - Release page: [https://github.com/noritama/gen-keypair/releases](https://github.com/noritama/gen-keypair/releases)
-- Download binary file(version 0.0.1): [https://github.com/noritama/gen-keypair/releases/download/v0.0.1/gen-keypair](https://github.com/noritama/gen-keypair/releases/download/v0.0.1/gen-keypair)
+- Download binary file(version 0.0.2): [https://github.com/noritama/gen-keypair/releases/download/v0.0.2/gen-keypair](https://github.com/noritama/gen-keypair/releases/download/v0.0.2/gen-keypair)
 
 # install
 
