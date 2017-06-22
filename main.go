@@ -4,7 +4,7 @@ import (
 	"flag"
 	"fmt"
 	"os"
-	"./keypair"
+	"github.com/noritama/gen-keypair/keypair"
 )
 
 func main() {
